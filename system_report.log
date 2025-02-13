@@ -1,0 +1,42 @@
+==============================
+🖥️  System Information
+==============================
+Operating System: Linux
+Uptime : up 5 hours, 3 minutes
+
+==============================
+💾 File System Space Usage
+==============================
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3,2G  2,1M  3,2G   1% /run
+efivarfs        192K   61K  127K  33% /sys/firmware/efi/efivars
+/dev/nvme0n1p6   63G   57G  2,9G  96% /
+tmpfs            16G   24M   16G   1% /dev/shm
+tmpfs           5,0M   12K  5,0M   1% /run/lock
+/dev/nvme0n1p2   96M   52M   45M  54% /boot/efi
+tmpfs           3,2G  2,6M  3,2G   1% /run/user/1000
+
+==============================
+🧠 Memory Information
+==============================
+This is your information free space :
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       6,6Gi        22Gi       708Mi       3,7Gi        24Gi
+Swap:          2,0Gi          0B       2,0Gi
+
+==============================
+CPU Usage(Top 5)
+==============================
+top - 13:43:09 up  5:03,  1 user,  load average: 0,50, 0,94, 1,03
+Tasks: 390 total,   1 running, 388 sleeping,   0 stopped,   1 zombie
+%Cpu(s):  1,9 us,  2,5 sy,  0,0 ni, 95,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st 
+MiB Mem :  31993,2 total,  22593,9 free,   6773,8 used,   3796,1 buff/cache     
+MiB Swap:   2048,0 total,   2048,0 free,      0,0 used.  25219,4 avail Mem 
+
+==============================
+Network Information
+==============================
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+wlp2s0           UP             192.168.69.78/24 fe80::46bd:3d1:755c:7dc0/64 
+
+✅ Script execution completed!
